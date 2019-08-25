@@ -1,0 +1,168 @@
+body{
+	background:gray;
+
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#main_container{
+    width:1348px;
+    height:654px;
+
+}         
+
+#head1{
+    width: 290px;
+    height: 118px;
+    left:0px;
+    top: 0px;
+    position: absolute;
+    background-color:rosybrown; 
+    text-align: center;
+}
+#head1 p{
+	font-size:20px;
+	font-family:arial;
+	color:seagreen;
+	text-align:center;
+	width:200px;
+	margin:0 auto;
+	padding:40px;
+}       
+#head2{
+    width: 1056px;
+    height: 118px;
+    right:0px;
+    top: 0px;
+    position: absolute;
+    background-color:violet;
+    text-align: center
+}
+#head2 p{
+	font-size:20px;
+	font-family:arial;
+	color:gray;
+	text-align:center;
+	width:200px;
+	margin:0 auto;
+	padding:40px;
+}                  
+#menu{
+    width: 100%;
+    height: 60px;
+    left:0px;
+    top: 120px;
+    position: absolute;
+    background-color:khaki;
+    text-align: center
+}
+#menu p{
+	font-size:20px;
+	font-family:arial;
+	color:peru;
+	text-align:center;
+	width:100px;
+	margin:0 auto;
+	padding:20px;
+}                 
+#sBarLeft{
+    width: 290px;
+    height:390px;
+    left: 0px;
+    top: 182px;
+    position: absolute;
+    background-color:chartreuse;
+    text-align: center;
+	float: left;
+}
+#sBarLeft p{
+	font-size:25px;
+	font-family:arial;
+	color:brown;
+	text-align:center;
+	width:200px;
+	margin:0 auto;
+	padding:30px;
+}
+#content{
+    width: 763px;
+    height:390px;
+    left: 293px;
+    top: 182px;
+    position: absolute;
+    background-color:green;
+    text-align: center;
+	float: left;
+}
+#content p{
+	font-size:25px;
+	font-family:arial;
+	color:plum;
+	text-align:center;
+	width:400px;
+	margin:0 auto;
+	padding:10px;
+}                 
+#sBarRight{
+    width: 290px;
+    height:390px;
+    right: 0px;
+    top: 182px;
+    position: absolute;
+    background-color:orangered;
+    text-align: center;
+	float: right;
+}
+#sBarRight p{
+	font-size:25px;
+	font-family:arial;
+	color:lightcyan;
+	text-align:center;
+	width:200px;
+	margin:0 auto;
+	padding:30px;
+}                  
+#footer{
+    width: 1056px;
+    height:80px;
+    left: 0px;
+    top: 574px;
+    position: absolute;
+    background-color:turquoise;
+    text-align: center;
+}
+#footer p{
+	font-size:20px;
+	font-family:arial;
+	color:azure;
+	text-align:center;
+	width:400px;
+	margin:0 auto;
+	padding:30px;
+}                    
+#icon{
+    width: 290px;
+    height:80px;
+    right: 0px;
+    top: 574px;
+    position: absolute;
+    background-color:lightcoral;
+    text-align: center;
+} 
+#icon p{
+	font-size:20px;
+	font-family:arial;
+	color:blueviolet;
+	text-align:center;
+	width:200px;
+	margin:0 auto;
+	padding:40px;
+
+}
+
+   
+    
+    
+    
